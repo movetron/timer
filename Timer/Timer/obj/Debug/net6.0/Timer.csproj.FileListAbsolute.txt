@@ -1,0 +1,15 @@
+A:\МДК 01.01\base_alg\Timer\Timer\bin\Debug\net6.0\Timer.exe
+A:\МДК 01.01\base_alg\Timer\Timer\bin\Debug\net6.0\Timer.deps.json
+A:\МДК 01.01\base_alg\Timer\Timer\bin\Debug\net6.0\Timer.runtimeconfig.json
+A:\МДК 01.01\base_alg\Timer\Timer\bin\Debug\net6.0\Timer.dll
+A:\МДК 01.01\base_alg\Timer\Timer\bin\Debug\net6.0\Timer.pdb
+A:\МДК 01.01\base_alg\Timer\Timer\obj\Debug\net6.0\Timer.csproj.AssemblyReference.cache
+A:\МДК 01.01\base_alg\Timer\Timer\obj\Debug\net6.0\Timer.GeneratedMSBuildEditorConfig.editorconfig
+A:\МДК 01.01\base_alg\Timer\Timer\obj\Debug\net6.0\Timer.AssemblyInfoInputs.cache
+A:\МДК 01.01\base_alg\Timer\Timer\obj\Debug\net6.0\Timer.AssemblyInfo.cs
+A:\МДК 01.01\base_alg\Timer\Timer\obj\Debug\net6.0\Timer.csproj.CoreCompileInputs.cache
+A:\МДК 01.01\base_alg\Timer\Timer\obj\Debug\net6.0\Timer.dll
+A:\МДК 01.01\base_alg\Timer\Timer\obj\Debug\net6.0\refint\Timer.dll
+A:\МДК 01.01\base_alg\Timer\Timer\obj\Debug\net6.0\Timer.pdb
+A:\МДК 01.01\base_alg\Timer\Timer\obj\Debug\net6.0\Timer.genruntimeconfig.cache
+A:\МДК 01.01\base_alg\Timer\Timer\obj\Debug\net6.0\ref\Timer.dll
